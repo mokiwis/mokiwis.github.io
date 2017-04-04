@@ -7,7 +7,7 @@
 		"uuidString": "3044354F-7093-4C0E-84B9-8F264F21C0CF"
 		}
 	],
-"creatorBuild": "25504",
+"creatorBuild": "25704",
 "files": {
 	"\/.gitignore": {
 		"ft": 8192,
@@ -198,10 +198,12 @@
 	"\/favicon.png": {
 		"ft": 32768,
 		"iS": 1606,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/build\/favicon.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/fonts\/lora\/lora-bold-webfont.eot": {
 		"ft": 8192,
@@ -511,7 +513,8 @@
 		"oA": 0,
 		"oAP": "\/build\/images\/bg.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/images\/intro-bg.jpg": {
 		"ft": 16384,
@@ -519,15 +522,18 @@
 		"oA": 0,
 		"oAP": "\/build\/images\/intro-bg.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/images\/logo.png": {
 		"ft": 32768,
 		"iS": 7442,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/build\/images\/logo.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/images\/portfolio\/badger.jpg": {
 		"ft": 16384,
@@ -535,7 +541,8 @@
 		"oA": 0,
 		"oAP": "\/build\/images\/portfolio\/badger.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/images\/portfolio\/cidcli35.jpg": {
 		"ft": 16384,
@@ -543,7 +550,8 @@
 		"oA": 0,
 		"oAP": "\/build\/images\/portfolio\/cidcli35.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/images\/portfolio\/delibo.jpg": {
 		"ft": 16384,
@@ -551,7 +559,8 @@
 		"oA": 0,
 		"oAP": "\/build\/images\/portfolio\/delibo.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/images\/portfolio\/epub.jpg": {
 		"ft": 16384,
@@ -559,7 +568,8 @@
 		"oA": 0,
 		"oAP": "\/build\/images\/portfolio\/epub.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/images\/portfolio\/ilustracion.jpg": {
 		"ft": 16384,
@@ -567,7 +577,8 @@
 		"oA": 0,
 		"oAP": "\/build\/images\/portfolio\/ilustracion.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/images\/portfolio\/modals\/m-badger.jpg": {
 		"ft": 16384,
@@ -575,7 +586,8 @@
 		"oA": 0,
 		"oAP": "\/build\/images\/portfolio\/modals\/m-badger.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/images\/portfolio\/modals\/m-cidcli35.jpg": {
 		"ft": 16384,
@@ -583,7 +595,8 @@
 		"oA": 0,
 		"oAP": "\/build\/images\/portfolio\/modals\/m-cidcli35.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/images\/portfolio\/modals\/m-delibo.jpg": {
 		"ft": 16384,
@@ -591,7 +604,8 @@
 		"oA": 0,
 		"oAP": "\/build\/images\/portfolio\/modals\/m-delibo.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/images\/portfolio\/modals\/m-epub.jpg": {
 		"ft": 16384,
@@ -599,7 +613,8 @@
 		"oA": 0,
 		"oAP": "\/build\/images\/portfolio\/modals\/m-epub.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/images\/portfolio\/modals\/m-ilustracion.jpg": {
 		"ft": 16384,
@@ -607,7 +622,8 @@
 		"oA": 0,
 		"oAP": "\/build\/images\/portfolio\/modals\/m-ilustracion.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/images\/portfolio\/modals\/m-pininos.jpg": {
 		"ft": 16384,
@@ -615,7 +631,8 @@
 		"oA": 0,
 		"oAP": "\/build\/images\/portfolio\/modals\/m-pininos.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/images\/portfolio\/modals\/m-retrato.jpg": {
 		"ft": 16384,
@@ -623,7 +640,8 @@
 		"oA": 0,
 		"oAP": "\/build\/images\/portfolio\/modals\/m-retrato.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/images\/portfolio\/pininos.jpg": {
 		"ft": 16384,
@@ -631,7 +649,8 @@
 		"oA": 0,
 		"oAP": "\/build\/images\/portfolio\/pininos.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/images\/portfolio\/retrato.jpg": {
 		"ft": 16384,
@@ -639,7 +658,8 @@
 		"oA": 0,
 		"oAP": "\/build\/images\/portfolio\/retrato.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/images\/profile-pic.jpg": {
 		"ft": 16384,
@@ -647,7 +667,8 @@
 		"oA": 0,
 		"oAP": "\/build\/images\/profile-pic.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/images\/sample-image.jpg": {
 		"ft": 16384,
@@ -655,7 +676,8 @@
 		"oA": 0,
 		"oAP": "\/build\/images\/sample-image.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/inc\/sendEmail.php": {
 		"ft": 8192,
@@ -1405,6 +1427,10 @@
 			"active": 1,
 			"optionString": ""
 			},
+		"no-compare-neg-zero": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-cond-assign": {
 			"active": 1,
 			"optionString": "'except-parens'"
@@ -1602,6 +1628,10 @@
 			"optionString": "{'grouping': false, 'allowCall': false }"
 			},
 		"no-mixed-spaces-and-tabs": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-multi-assign": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -1881,6 +1911,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"nonblock-statement-body-position": {
+			"active": 0,
+			"optionString": "'beside'"
+			},
 		"object-curly-newline": {
 			"active": 0,
 			"optionString": "{'ObjectExpression': {'multiline': true}, 'ObjectPattern': {'multiline': true}}"
@@ -1932,6 +1966,10 @@
 		"prefer-numeric-literals": {
 			"active": 0,
 			"optionString": ""
+			},
+		"prefer-promise-reject-errors": {
+			"active": 0,
+			"optionString": "{'allowEmptyReject': false}"
 			},
 		"prefer-rest-params": {
 			"active": 0,
@@ -2026,6 +2064,10 @@
 			"optionString": ""
 			},
 		"template-curly-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"template-tag-spacing": {
 			"active": 0,
 			"optionString": "'never'"
 			},
@@ -2472,7 +2514,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"quality": 100
 		},
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
@@ -2565,7 +2608,9 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"enableLossy": 1,
+		"quality": 100
 		},
 	"languageDefaultsPUG": {
 		"autoOutputAction": 0,
