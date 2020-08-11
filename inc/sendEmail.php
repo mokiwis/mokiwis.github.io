@@ -1,7 +1,7 @@
 ﻿<?php
 
 // Replace this with your own email address
-$siteOwnersEmail = 'cervantes.moises@me.com';
+$siteOwnersEmail = 'cervantes.moises@gmail.com';
 
 
 if($_POST) {
@@ -32,7 +32,7 @@ if($_POST) {
 	$message .= "Dirección: " . $email . "<br />";
    $message .= "Mensaje: <br />";
    $message .= $contact_message;
-   $message .= "<br /> ----- <br /> Este mensaje fue enviad desde el sitio web moisescervantes.xyz. <br />";
+   $message .= "<br /> ----- <br /> Este mensaje fue enviado desde el sitio web moisescervantes.com <br />";
 
    // Set From: header
    $from =  $name . " <" . $email . ">";
@@ -50,8 +50,8 @@ if($_POST) {
       $mail = mail($siteOwnersEmail, $subject, $message, $headers);
 
 		if ($mail) { echo "OK"; }
-      else { echo "Something went wrong. Please try again."; }
-		
+      else { echo "Algo salió mal. Por favor intenta de nuevo."; }
+
 	} # end if - no validation error
 
 	else {
@@ -59,7 +59,7 @@ if($_POST) {
 		$response = (isset($error['name'])) ? $error['name'] . "<br /> \n" : null;
 		$response .= (isset($error['email'])) ? $error['email'] . "<br /> \n" : null;
 		$response .= (isset($error['message'])) ? $error['message'] . "<br />" : null;
-		
+
 		echo $response;
 
 	} # end if - there was a validation error
